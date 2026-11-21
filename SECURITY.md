@@ -27,8 +27,6 @@ If you discover a security vulnerability, please report it responsibly.
  
 Thank you for helping improve the security of this project.
 
-इसे अपने repo के root folder में SECURITY.md नाम से save करो:
-
 Plain Text
 ZapCart/
 ├── README.md
